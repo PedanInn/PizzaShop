@@ -1,0 +1,205 @@
+html{
+zoom: 110%;
+overflow-x:hidden;
+}
+body{
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 300;
+font-size: 20px;
+line-height: 23px;
+
+color: #1E1E1E;
+}
+h2{
+    text-align: center;
+}
+header{
+    position: relative;
+    top: 70px;
+    height: 100px;
+    width: 100%;
+background: #FFC700;
+}
+nav{
+position: relative;
+top: 30px;
+width: 70%;
+float: right;
+}
+.logo{
+    position: relative;
+    left: 5%;
+    margin-right: 3%;
+width: 20%;
+float: left;
+color: #FFFFFF;
+}
+.nav-link{
+text-decoration: none;
+color: #1E1E1E;
+margin: 5%;
+}
+
+main{
+    position: relative;
+    top: 150px;
+    width: 100%;
+}
+
+.info{
+position: absolute;
+left: 88px;
+}
+.info-div{
+width: 40%;
+float: left;
+
+margin-right: 5%;
+}
+.img-inf{
+width: 400px;
+height: 400px;
+float: right;
+
+margin-right: 10%;
+}
+.info-butt{
+position: relative;
+top: 30px;
+}
+.call-butt{
+background: #FFC700;
+box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.25);
+text-decoration: none;
+color: #FFFFFF;
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 600;
+padding: 2% 6%;
+margin-right: 40px;
+}
+.menu-butt{
+background: #FFFFFF;
+border: 1px solid #FFC700;
+box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.25);
+text-decoration: none;
+color: #FFC700;
+padding: 2% 7%;
+
+}
+.menu-food{
+position: absolute;
+top: 500px;
+width: 100%;
+}
+.menu-div{
+    position: relative;
+    top: 80px;
+    height: 400px;
+    margin-bottom: 100px;
+    width: 100%;
+    float: left;
+}
+
+.menu-img{
+float: left;
+width: 454px;
+height: 385px;
+filter: drop-shadow(0px 4px 10px rgba(0, 0, 0, 0.25));
+margin-left:10% ;
+margin-right:5% ;
+}
+
+.menu-info{
+width:45%;
+float: right;
+}
+
+.menu-drink{
+position: absolute;
+top: 3650px;
+width: 100%;
+}
+
+.sallary{
+color: #FF6B00;
+}
+.order{
+background: #FFC700;
+box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.25);
+color: #FFFFFF;
+text-decoration: none;
+padding: 1% 2% 1% 2%;
+}
+.sale{
+position: absolute;
+top: 9650px;
+width: 100%;
+text-align: center;
+}
+.sale-div{
+margin-top: 100px;
+}
+.sale-img{
+width: 240px;
+height: 240px;
+margin-right: 10%;
+}
+.about{
+position: absolute;
+top: 10404px;
+width: 100%;
+height: 500px;
+text-align: center;
+background-image: url("https://s3-alpha-sig.figma.com/img/04b6/bb87/88997c97ccf6e1ad037ff21268797692?Expires=1659312000&Signature=WJvDn08N73jkKO7fhIbj~gU8bnWVXnC4v4T3KoyAoIQxW2u5PKDT0emG3ErqQSTTxf9yprYTMztv1PSM5ZL67VW2HVyRVyCyWmDXDZ~iOiD9VvjnKvO5I4RP9EHbiXJTwBGuTqjV4UbT1bI5w6HGni52MsKJ9IwTHus6pLyLFo6A0Yt85Kw1swkPP3pca3LImRcPsNKEC5dzezOJ11mMLOTABQOXhFnUYL0SAjuED-Hm5QecwaL-9Iij9WmLzGDFm1iDmu-C-xkD8X6XtjrAHvgQgrKiLLbDIhOCx0j9uEFa4cfN-mmZ5kwrYqt57JivJg-wrfkRpEHQCt3GhgJ0bA__&Key-Pair-Id=APKAINTVSUGEWH5XD5UA");
+background-repeat: no-repeat;
+background-size: cover;
+}
+.about h2{
+    color: white;
+}
+.about-div{
+    position: relative;
+width: 80%;
+left: 10%;
+color: #FFFFFF;
+}
+footer{
+position: relative;
+top: 11000px;
+width: 100%;
+background: #FFC700;
+height: 250px;
+}
+.footer-info{
+position: relative;
+left: 30px;
+top: 30px;
+}
+
+.footer-img{
+    position: absolute;
+    top:30px;
+    left: 35%;
+width: 100px;
+height: 100px;
+}
+.footer-img2{
+    
+    left: 50%;
+    position: absolute;
+    top:30px;
+width: 140px;
+height: 100px;
+
+}
+.logo-img{
+    position: absolute;
+   top:20px;
+   right: 10px;
+width: 210px;
+}
+.nav-link:hover{
+  color: #FFFFFF;
+}
